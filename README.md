@@ -50,6 +50,20 @@
   <img width="250" alt="Wallet Tracker 2" src="https://github.com/user-attachments/assets/0c477277-fcad-4326-bcde-0296eaf76a0d" />
   &nbsp;&nbsp;&nbsp;
   <img width="250" alt="Wallet Tracker 3" src="https://github.com/user-attachments/assets/4e58ba67-b337-4ea4-9edf-a95151864fa6" />
+</p> 
+
+# Link Parser 
+
+* LinkParser is a Telegram bot designed for fast, automated formatting of regional links into ready-to-publish HTML templates for Telegram channels; 
+* Core Functionality: Allows users to parse raw lists of cities and URLs, automatically mapping standard city names to specific regional variations and wrapping them into 5 distinct visual templates featuring custom and premium emojis; 
+* Architecture: The project is built on Python using the pyTelegramBotAPI (telebot) library, ensuring fast text processing and seamless generation of HTML-formatted messages with Telegram Bot API integration; 
+* State Management: Utilizes an efficient in-memory state tracking system to remember the user's selected formatting template per chat session, allowing for continuous batch processing of links without re-selecting settings; 
+* Efficiency: Features an intuitive user interface with a persistent custom Reply Keyboard for one-click template switching, automating repetitive text formatting tasks and significantly reducing the time required by content managers to prepare posts.
+<br>
+<p align="center">
+  <img width="250" alt="Wallet Tracker 1" src="https://github.com/user-attachments/assets/922cdb19-8598-415d-9309-23a2479c2cd0" />
+  &nbsp;&nbsp;&nbsp; 
+  <img width="250" alt="Wallet Tracker 2" src="https://github.com/user-attachments/assets/7a4beac8-8a6e-486e-80cc-594b1bd6979a" /> 
 </p>
 
 ## Thanks for stopping by!
